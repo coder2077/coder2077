@@ -4,7 +4,7 @@
 - 📫 Contact: [Telegram](https://t.me/coder2077)
 
 
-📈 my github stats
+📈 My github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=coder2077&show_icons=true&theme=gotham" alt="coder2077 -  Abdul Latif" />
 
