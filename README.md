@@ -3,6 +3,7 @@
 - 💬 Ask me about [Python](https://www.python.org/)
 - 📫 Contact: [Telegram](https://t.me/coder2077)
 
+![](https://visitor-badge.glitch.me/badge?page_id=coder2077)
 
 📈 My github stats
 
