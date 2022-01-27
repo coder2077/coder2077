@@ -8,11 +8,12 @@
 
 📈 My github stats
 
-<div align="center">
-  <a href="https://instagram.com/thelatif_off">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coder2077&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder2077&layout=compact&langs_count=7&theme=radical&cache_seconds=1800"/>
-</div>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=coder2077&show_icons=true&theme=radical"/>
+
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder2077&layout=compact&langs_count=7&theme=radical&cache_seconds=1800"/>
 
 
 ![Snake animation](https://github.com/preethamb97/preethamb97/blob/output/github-contribution-grid-snake.svg)
