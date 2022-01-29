@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm [Abdul Latif](https://www.instagram.com/thelatif_off).
 
 - 💬 Ask me about [Python](https://www.python.org/)
+- 🤓 I am interested in Machine Learning and AI
 - 📫 Contact: [Telegram](https://t.me/coder2077)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=coder2077)
