@@ -1,20 +1,91 @@
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm [Abdul Latif](https://www.instagram.com/thelatif_off).
+<!-- Header banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abdul%20Latif&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Python%20Developer%20%C2%B7%20API%20%26%20Bot%20Builder&descAlignY=58&descSize=18&animation=fadeIn" alt="header"/>
+</p>
 
-- 💬 Ask me about [Python](https://www.python.org/)
-- 🤓 I am interested in Machine Learning and AI
-- 📫 Contact: [Telegram](https://t.me/coder2077)
+<!-- Typing intro -->
+<p align="center">
+  <a href="https://t.me/coder2077">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A277FF&center=true&vCenter=true&width=560&lines=Python+Developer+from+Earth+%F0%9F%8C%8D;Backend+%7C+APIs+%7C+Telegram+Bots;Machine+Learning+%26+AI+enthusiast;Creator+of+FastSaverAPI+%E2%9A%A1" alt="Typing SVG"/>
+  </a>
+</p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=coder2077)
+<!-- Social badges -->
+<p align="center">
+  <a href="https://t.me/coder2077"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://www.instagram.com/thelatif_off"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <img src="https://komarev.com/ghpvc/?username=coder2077&style=for-the-badge&color=a277ff&label=PROFILE+VIEWS" alt="profile views"/>
+</p>
 
+---
 
-📈 My github stats
+### 👨‍💻 About Me
 
+- 🐍 Python developer focused on **backend, APIs and automation**
+- ⚡ Building **[FastSaverAPI](https://github.com/coder2077/fastsaver)** — a media downloader & Shazam recognition service (Instagram, TikTok, YouTube, Pinterest, Facebook, X/Twitter and more)
+- 🤖 I ship **Telegram bots** with `pyTelegramBotAPI` and `aiogram`
+- 🌐 Web apps with **Django** and **FastAPI**
+- 🧠 Interested in **Machine Learning & AI**
+- 💬 Ask me about **Python**, **Telegram bots** or **API design**
+- 📫 Reach me on [Telegram](https://t.me/coder2077)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=coder2077&show_icons=true&theme=radical"/>
+---
 
+### 🛠️ Tech Stack
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="aiogram"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder2077&layout=compact&langs_count=7&theme=radical&cache_seconds=1800"/>
+---
 
+### 🚀 Featured Project
 
-![Snake animation](https://github.com/preethamb97/preethamb97/blob/output/github-contribution-grid-snake.svg)
+<a href="https://github.com/coder2077/fastsaver">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=coder2077&repo=fastsaver&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="FastSaver"/>
+</a>
+
+> **FastSaverAPI** — Python SDK for downloading media from Instagram, TikTok (no watermark),
+> YouTube (MP4 up to 4K, MP3), Pinterest, Facebook, X/Twitter, RuTube and Likee, plus Shazam
+> song recognition. Sync + async, fully typed. Free tier: **1,000 credits, no card**.
+>
+> ```bash
+> pip install fastsaver
+> ```
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=coder2077&show_icons=true&hide_border=true&theme=tokyonight&bg_color=1a1b27&include_all_commits=true&count_private=true" alt="stats"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=coder2077&theme=tokyonight&hide_border=true&background=1a1b27" alt="streak"/>
+</p>
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder2077&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=1a1b27" alt="top langs"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=coder2077&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies"/>
+</p>
+
+---
+
+<!-- Contribution snake (generated by GitHub Action, see .github/workflows/snake.yml) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/coder2077/coder2077/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
+<p align="center"><i>⭐️ From <a href="https://github.com/coder2077">coder2077</a></i></p>
