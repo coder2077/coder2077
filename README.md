@@ -6,9 +6,6 @@ I build media-processing services, REST APIs and Telegram bots, and I work with
 Machine Learning on the side.
 
 - 🔭 Currently building **[FastSaverAPI](https://github.com/coder2077/fastsaver)** — a media downloader & Shazam recognition service (Instagram, TikTok, YouTube, Pinterest, Facebook, X/Twitter and more)
-- 🤖 Telegram bots with `pyTelegramBotAPI` and `aiogram`
-- 🌐 Web apps with **Django** and **FastAPI**
-- 🧠 Interested in **Machine Learning & AI**
 - 💬 Reach me on [Telegram](https://t.me/coder2077)
 
 ---
@@ -29,26 +26,3 @@ Machine Learning on the side.
 </p>
 
 ---
-
-### Featured Project
-
-<a href="https://github.com/coder2077/fastsaver">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=coder2077&repo=fastsaver&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="FastSaver"/>
-</a>
-
-**FastSaverAPI** — Python SDK for downloading media from Instagram, TikTok (no watermark),
-YouTube (MP4 up to 4K, MP3), Pinterest, Facebook, X/Twitter, RuTube and Likee, plus Shazam
-song recognition. Sync + async, fully typed.
-
-```bash
-pip install fastsaver
-```
-
----
-
-### GitHub Stats
-
-<p align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=coder2077&show_icons=true&hide_border=true&theme=tokyonight&bg_color=1a1b27&include_all_commits=true&count_private=true" alt="stats"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder2077&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=1a1b27" alt="top langs"/>
-</p>
